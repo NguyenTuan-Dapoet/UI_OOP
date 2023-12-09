@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d918afb0-0ed9-4739-ad70-25e98ff1bc5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/GUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/ChatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/active-dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/images/voice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/style/chatapp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/src/main/java/gui_exercise_oop/resources/views/chatapp.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/gui_exercise_oop/ChatApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/gui_exercise_oop/ChatController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/gui_exercise_oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/active-dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/images/voice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/style/chatapp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_exercise_oop-main/target/classes/views/chatapp.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ZJO6t4CY1RFXs3sEvxWDqcEb6u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/workSpace/GitHub/UI_OOP/ChatBot",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d918afb0-0ed9-4739-ad70-25e98ff1bc5f" name="Changes" comment="" />
+      <created>1702136544987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702136544987</updated>
+      <workItem from="1702136545972" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
